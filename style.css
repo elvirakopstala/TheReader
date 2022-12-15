@@ -111,7 +111,7 @@ img {
   height: 9rem;
   width: 100%;
   padding: 0 6rem;
-  /* margin-top: 4rem; */
+  margin-top: 2rem;
   z-index: 100;
 }
 
@@ -176,6 +176,7 @@ img {
 .header__title {
   flex: 1;
   margin-top: 10rem;
+  margin-left: 5rem;
   max-width: 135rem;
   display: grid;
   grid-template-columns: 3fr 2fr;
